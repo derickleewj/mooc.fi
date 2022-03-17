@@ -1,4 +1,4 @@
-<b>Topics covered in Part 3: </b>
+<b>Topics covered in Part 4: </b>
 1. Introduction to object-oriented programming
 2. Objects in a list
 3. Files and reading data
